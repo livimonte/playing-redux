@@ -1,6 +1,6 @@
 # Playing with Redux &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Simple react+redux integration passing data through components
+### Simple react+redux integration passing data through components
 
 ---
 
