@@ -2,6 +2,8 @@
 
 ### Simple react+redux integration passing data through components
 
+### Added an example with React Hooks + Redux
+
 ---
 
 ### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

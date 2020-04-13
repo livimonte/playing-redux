@@ -12,6 +12,7 @@
 /build
 
 # misc
+.wakatime-project
 .DS_Store
 .env.local
 .env.development.local
